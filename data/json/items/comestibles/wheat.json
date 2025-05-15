@@ -624,7 +624,7 @@
     "price_postapoc": "83 cent",
     "material": [ "wheat", "milk" ],
     "primary_material": "wheat",
-    "volume": "125 ml",
+    "volume": "400 ml",
     "flags": [ "EATEN_HOT" ],
     "fun": 6,
     "vitamins": [ [ "calcium", 2 ], [ "iron", 4 ], [ "wheat_allergen", 1 ], [ "milk_allergen", 1 ] ]
