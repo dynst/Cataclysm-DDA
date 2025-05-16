@@ -4595,19 +4595,19 @@
     "subcategory": "CSC_FOOD_BREAD",
     "skill_used": "cooking",
     "difficulty": 1,
-    "charges": 1,
+    "charges": 2,
     "//": "Online recipe says prep time 5 min, cook time 1hr. Adjusted batch time to mimic that.",
     "time": "1 h 15 m",
     "batch_time_factors": [ 85, 1 ],
     "autolearn": true,
     "qualities": [ [ { "id": "COOK", "level": 2 } ], [ { "id": "OVEN", "level": 1 } ] ],
-    "tools": [ [ [ "surface_heat", 12, "LIST" ] ] ],
+    "tools": [ [ [ "surface_heat", 8, "LIST" ] ] ],
     "proficiencies": [ { "proficiency": "prof_food_prep" }, { "proficiency": "prof_baking" } ],
     "//1": "double usual price of flour to dehydrate it more than usual.",
     "components": [
-      [ [ "flour_any", 38, "LIST" ] ],
-      [ [ "salt", 6 ], [ "soysauce", 6 ], [ "seasoning_salt", 6 ] ],
-      [ [ "water_clean", 2 ] ]
+      [ [ "flour_any", 28, "LIST" ] ],
+      [ [ "salt", 3 ], [ "soysauce", 3 ], [ "seasoning_salt", 3 ] ],
+      [ [ "water_clean", 1 ] ]
     ]
   },
   {
