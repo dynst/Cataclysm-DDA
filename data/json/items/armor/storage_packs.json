@@ -44,9 +44,9 @@
       }
     ],
     "variants": [
-      { "id": "backpack_boy_branded", "name": { "str": "boy's backpack" }, "snippet_category": "boy_brand" },
-      { "id": "backpack_girl_branded", "name": { "str": "girl's backpack" }, "snippet_category": "girl_brand" },
-      { "id": "backpack_kid_branded", "name": { "str": "kid's backpack" }, "snippet_category": "kid_brand" }
+      { "id": "boy_branded", "name": { "str": "boy's backpack" }, "snippet_category": "boy_brand" },
+      { "id": "girl_branded", "name": { "str": "girl's backpack" }, "snippet_category": "girl_brand" },
+      { "id": "kid_branded", "name": { "str": "kid's backpack" }, "snippet_category": "kid_brand" }
     ]
   }
 ]
