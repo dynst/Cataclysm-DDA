@@ -20,6 +20,7 @@
         ],
         "prob": 20
       },
+      { "id": "backpack_kid_branded" },
       { "group": "scarfs_unisex", "damage": [ 1, 4 ], "custom-flags": [ "UNDERSIZE" ], "prob": 20 },
       { "group": "accesories_personal_unisex_child", "damage": [ 1, 4 ], "custom-flags": [ "UNDERSIZE" ], "prob": 15 },
       {
