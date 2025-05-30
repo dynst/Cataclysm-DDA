@@ -6,7 +6,7 @@
     "text": [
       {
         "id": "kid_brand_1",
-        "text": "It's covered in shooting stars and glowing comets."
+        "text": "It's covered in shooting stars and glowing comets, the kind that people used to wish upon."
       },
       {
         "id": "kid_brand_2",
@@ -18,11 +18,11 @@
       },
       {
         "id": "kid_brand_4",
-        "text": "As you examine it, the cartoon owl stares back at you with big, inscrutable eyes."
+        "text": "As you examine it, its cartoon owl mascot stares back at you with big, inscrutable eyes."
       },
       {
         "id": "kid_brand_5",
-        "text": "It's covered in tiny paw prints, like a pet left muddy tracks."
+        "text": "It's covered in tiny paw prints, like an untrained pet left muddy tracks all over it."
       },
       {
         "id": "kid_brand_6",
@@ -30,7 +30,7 @@
       },
       {
         "id": "kid_brand_7",
-        "text": "An old cartoon character smiles jauntily from its surface, celebrating their recently renewed return to television. But the new series never got to air before the TV stations shut down."
+        "text": "An old cartoon character smiles jauntily from its surface, celebrating their recently renewed return to television. The TV stations shutting down stopped that nostalgia grab before it started."
       },
       {
         "id": "boy_brand_1",
@@ -52,25 +52,19 @@
         "id": "boy_brand_5",
         "text": "It's covered in tiny monster truck patterns, like muddy tire tracks have permanently defaced it."
       },
-      {
-        "id": "boy_brand_6",
-        "text": "There's a sporty pattern of sneakers, soccer balls, and trophies covering it."
-      },
+      { "id": "boy_brand_6", "text": "There's a sporty pattern of sneakers, soccer balls, and trophies covering it." },
       {
         "id": "girl_brand_1",
-        "text": "Images of shimmering fairy wings and magic wands cover its surface."
+        "text": "Images of glowing magic wands and small fairies with shimmering wings cover its surface."
       },
-      {
-        "id": "girl_brand_2",
-        "text": "Little cartoon ballerinas pose gracefully on a pastel background."
-      },
+      { "id": "girl_brand_2", "text": "Little cartoon ballerinas pose gracefully on a pastel background." },
       {
         "id": "girl_brand_3",
         "text": "Little pink hearts and sparkles decorate the space around a single large, central red heart."
       },
       {
         "id": "girl_brand_4",
-        "text": "It's covered in unicorns that prance under rainbows stretching between white, fluffly clouds."
+        "text": "It's covered in unicorns that prance under various rainbows arcing between white, fluffly clouds."
       },
       {
         "id": "girl_brand_5",
