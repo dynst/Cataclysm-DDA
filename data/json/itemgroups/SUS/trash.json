@@ -299,10 +299,13 @@
     "//2": "This group is for forests without manmade trash",
     "subtype": "collection",
     "items": [
+      { "item": "leaves", "prob": 25, "count": [ 1, 10 ] },
+      { "item": "stick_common", "prob": 20 },
       { "item": "twig", "prob": 20, "count": [ 1, 10 ] },
       { "item": "rock", "prob": 20, "count": [ 1, 4 ] },
       { "item": "rock_flaking", "prob": 10 },
       { "item": "flint", "prob": 2 },
+      { "item": "chunk_feldspar", "prob": 1 },
       { "item": "stick", "prob": 10 },
       { "item": "acorns", "prob": 5 },
       { "item": "pinecone", "prob": 5 },
