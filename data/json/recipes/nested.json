@@ -3000,10 +3000,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "name": "bundle of items",
     "description": "Recipes related to tying items into compact bundles for transport or storage.",
-    "nested_category_data": [
-      "seaweed_pile",
-      "dry_seaweed_pile"
-    ]
+    "nested_category_data": [ "seaweed_pile", "dry_seaweed_pile" ]
   },
   {
     "id": "nested_cardboard_boxes",
