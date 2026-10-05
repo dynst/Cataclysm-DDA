@@ -330,7 +330,7 @@
     "//2": "This group is for forests with manmade trash in",
     "subtype": "collection",
     "entries": [
-      { "group": "SUS_trash_forest_no_manmade", "prob": 20 },
+      { "group": "SUS_trash_forest_no_manmade", "prob": 100 },
       { "group": "SUS_trash_forest_manmade_only", "prob": 100 }
     ]
   },
