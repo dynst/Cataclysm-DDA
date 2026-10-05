@@ -250,7 +250,7 @@
     "looks_like": "stick",
     "description": "A small, slender branch.  Makes passable firewood but is not useful for much else.",
     "weight": "40 g",
-    "longest_side": "60 cm",
+    "longest_side": "40 cm",
     "color": "brown",
     "symbol": "/",
     "material": [ "wood" ],
