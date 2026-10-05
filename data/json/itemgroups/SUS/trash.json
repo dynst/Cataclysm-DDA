@@ -307,6 +307,7 @@
       { "item": "flint", "prob": 2 },
       { "item": "chunk_feldspar", "prob": 1 },
       { "item": "stick", "prob": 10 },
+      { "item": "stick_long", "prob": 5 },
       { "item": "acorns", "prob": 5 },
       { "item": "pinecone", "prob": 5 },
       { "item": "withered", "prob": 10, "count": [ 1, 5 ] },
