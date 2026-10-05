@@ -310,6 +310,7 @@
       { "item": "stick_long", "prob": 5 },
       { "item": "acorns", "prob": 5 },
       { "item": "pinecone", "prob": 5 },
+      { "item": "juniper", "prob": 5 },
       { "item": "withered", "prob": 10, "count": [ 1, 5 ] },
       { "item": "plant_fibre", "prob": 20, "count": [ 1, 5 ] },
       { "item": "straw_pile", "prob": 10 },
