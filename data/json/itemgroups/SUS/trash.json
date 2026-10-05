@@ -329,10 +329,7 @@
     "//1": "SUS item groups are collections that contain a reasonable realistic distribution of items that might spawn in a given spot.",
     "//2": "This group is for forests with manmade trash in",
     "subtype": "collection",
-    "entries": [
-      { "group": "SUS_trash_forest_no_manmade", "prob": 100 },
-      { "group": "SUS_trash_forest_manmade_only", "prob": 100 }
-    ]
+    "entries": [ { "group": "SUS_trash_forest_no_manmade", "prob": 100 }, { "group": "SUS_trash_forest_manmade_only", "prob": 100 } ]
   },
   {
     "type": "item_group",
